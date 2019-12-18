@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 6c5328542e8c29e45b226f00e5257201
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Above
+    100002: AimSight
+    100004: Bullet
+    100006: FireButton
+    100008: Gal
+    100010: Mag
+    100012: MagBig
+    100014: Main
+    100016: //RootNode
+    100018: Reflex
+    100020: ReflexGlass
+    100022: Sillencer
+    400000: Above
+    400002: AimSight
+    400004: Bullet
+    400006: FireButton
+    400008: Gal
+    400010: Mag
+    400012: MagBig
+    400014: Main
+    400016: //RootNode
+    400018: Reflex
+    400020: ReflexGlass
+    400022: Sillencer
+    2100000: Glass
+    2100002: Metal1
+    2100004: Wood1
+    2300000: Above
+    2300002: AimSight
+    2300004: Bullet
+    2300006: FireButton
+    2300008: Gal
+    2300010: Mag
+    2300012: MagBig
+    2300014: Main
+    2300016: Reflex
+    2300018: ReflexGlass
+    2300020: Sillencer
+    3300000: Above
+    3300002: AimSight
+    3300004: Bullet
+    3300006: FireButton
+    3300008: Gal
+    3300010: Mag
+    3300012: MagBig
+    3300014: Main
+    3300016: Reflex
+    3300018: ReflexGlass
+    3300020: Sillencer
+    4300000: ReflexGlass
+    4300002: Above
+    4300004: Gal
+    4300006: FireButton
+    4300008: AimSight
+    4300010: Reflex
+    4300012: MagBig
+    4300014: Mag
+    4300016: Main
+    4300018: Bullet
+    4300020: Sillencer
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2.5
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
